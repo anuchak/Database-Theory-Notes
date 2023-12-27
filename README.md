@@ -7,7 +7,8 @@ Notes on Incremental View Maintenance, taken from the following videos:
 (2) Incremental View Maintenance 2 - https://www.youtube.com/watch?v=LD-KAKZWtVg  
     Dan Olteanu at Logic and Algorithms in Database Theory and AI Boot Camp
 
-(3) 
+(3) Introduction to Incremental View Maintenance - https://www.youtube.com/watch?v=H2i2Q2CKzPc
+    Dan Olteanu at CS294-248: Topics in Database Theory (https://berkeley-cs294-248.github.io/)
 
 # Query Optimization and Evaluation  
 Notes on query optimization & evaluation, taken from the following videos:
@@ -23,5 +24,12 @@ Notes on query optimization & evaluation, taken from the following videos:
 
 (4) Instance Optimality - https://www.youtube.com/watch?v=pOUICETMTbI  
     Mahmoud Abo Khamis at Logic and Algorithms in Database Theory and AI Boot Camp
+
+(5) Variable Elimination and Tree Decomposition: Functional Aggregate Queries - https://www.youtube.com/watch?v=MW2pCvvAa7s
+    Hung Ngo at CS294-248: Topics in Database Theory (https://berkeley-cs294-248.github.io/)
+
+
+
+
 
 
