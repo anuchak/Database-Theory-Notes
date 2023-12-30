@@ -26,10 +26,10 @@ Notes on query optimization & evaluation, taken from the following videos:
     Mahmoud Abo Khamis at Logic and Algorithms in Database Theory and AI Boot Camp
 
 (5) Variable Elimination and Tree Decomposition: Functional Aggregate Queries - https://www.youtube.com/watch?v=MW2pCvvAa7s  
-    Hung Ngo at CS294-248: Topics in Database Theory (https://berkeley-cs294-248.github.io/)
+    Hung Ngo at CS294-248: Topics in Database Theory (https://berkeley-cs294-248.github.io/)  
 
+# Datalog
+Notes on Datalog, taken from the following videos:
 
-
-
-
-
+(1) Algebraic Structures in Logic and Query Evaluation 3 - https://www.youtube.com/watch?v=aiFbFV31hDc  
+    Dan Suciu at  Logic and Algorithms in Database Theory and AI Boot Camp  
